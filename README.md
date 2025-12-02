@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Diksha 👋 
 
-<!--
-**Diksha-MukherjeeAgarwal/Diksha-MukherjeeAgarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you think I’m free every day… think again 😅  
+My life is basically a daily challenge mode:
 
-Here are some ideas to get you started:
+- 🚆 Survive delayed trains  
+- 🚇 Survive crowded metros  
+- 🎓 Survive dual degrees  
+- 🧠 Study AI, Data Science & Robotics  
+- 💤 Crash, repeat  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**--------------------------------------------------------------------**
+
+## About Me
+- Pursuing **dual degrees** in Computer Science  
+- Exploring **AI, Machine Learning, Data Science & Robotics**  
+- Creative side: exploring **poems & blogs**, planning **silk-pressed flowers** and **gardening exotic fruits** 🍉🌸  
+- Passionate about **learning new things** and contributing to **open source**
+
+**--------------------------------------------------------------------**
+
+## Skills
+- **Languages:** Python, **C (just started learning)** 
+- **Data & AI:** Pandas, NumPy, TensorFlow (learning)  
+- **Other:** Git, GitHub , **Linux(Starting during Incoming Holidays 🎄)**
+
+**--------------------------------------------------------------------**
+
+## Current Goals
+- Contribute to **Interesting Projects**  
+- Improve my **Open Source Skills**  
+- Combine **Tech + Creativity** in fun projects  
+
+**--------------------------------------------------------------------**
+
+## Fun Fact
+I travel through **trains and metros** every day and still manage to code 😎  
+Life is busy, but I love making it productive & fun!  
+

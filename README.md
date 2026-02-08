@@ -22,7 +22,7 @@ My life is basically a daily challenge mode:
 ## Skills
 - **Languages:** Python, **C (just started learning)** 
 - **Data & AI:** Pandas, NumPy, TensorFlow (learning)  
-- **Other:** Git, GitHub , **Linux(Starting during Incoming Holidays 🎄)**
+- **Other:** Git, GitHub , **Linux(begginer level)**
 
 **--------------------------------------------------------------------**
 

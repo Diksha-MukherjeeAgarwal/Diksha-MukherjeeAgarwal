@@ -12,6 +12,7 @@ My life is basically a daily challenge mode:
 **--------------------------------------------------------------------**
 
 ## About Me
+- I am a bird 🐦 
 - Pursuing **dual degrees** in Computer Science  
 - Exploring **AI, Machine Learning, Data Science & Robotics**  
 - Creative side: exploring **poems & blogs**, planning **silk-pressed flowers** and **gardening exotic fruits** 🍉🌸  
